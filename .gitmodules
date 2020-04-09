@@ -1,0 +1,4 @@
+[submodule "loganwhiteteam/odooph"]
+	path = loganwhiteteam/odooph
+	url = git@github.com:loganwhiteteam/odooph.git
+	branch = staging
