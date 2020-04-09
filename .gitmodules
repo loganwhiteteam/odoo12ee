@@ -1,0 +1,4 @@
+[submodule "Rahulkore125/odoo12"]
+	path = Rahulkore125/odoo12
+	url = git@github.com:Rahulkore125/odoo12.git
+	branch = production
